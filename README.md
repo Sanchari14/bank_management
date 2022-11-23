@@ -1,2 +1,2 @@
 # Bank Management System
- web development internship at spark foundation grip'sep22
+ web development by SANCHARI KAR 'sep22
